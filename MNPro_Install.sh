@@ -5,12 +5,12 @@ CONFIGFOLDER='/root/.MNPRO'
 COIN_DAEMON='mnprod'
 COIN_CLI='mnpro-cli'
 COIN_PATH='/usr/local/bin/'
-#COIN_TGZ='https://github.com/mnproio/MNPRO/releases/download/V1.0.0.1/LinuxDaemon.zip' - decompressed files grab each
-COIN_GETDMN='https://github.com/mnproio/MNPRO/releases/download/2.2.0.0/mnprod'
-COIN_GETCLI='https://github.com/mnproio/MNPRO/releases/download/2.2.0.0/mnpro-cli'
+#COIN_TGZ='https://github.com/Black-NET/MNPRO/releases/download/MNPRO-2.2.2.0/MNPRO-2.2.2.0.zip' - decompressed files grab each
+COIN_GETDMN='https://github.com/Black-NET/MNPRO/releases/download/MNPRO-2.2.2.0/mnprod'
+COIN_GETCLI='https://github.com/Black-NET/MNPRO/releases/download/MNPRO-2.2.2.0/mnpro-cli'
 #COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}') - decompressed files
 COIN_NAME='MNPRO'
-COIN_EXPLORER='http://209.250.224.186'
+COIN_EXPLORER='https://openchains.info/coin/mnpro/blocks'
 COIN_PORT=30229
 RPC_PORT=30230
 
@@ -156,6 +156,9 @@ masternode=1
 masternodeaddr=$NODEIP:$COIN_PORT
 masternodeprivkey=$COINKEY
 #ADDNODES
+addnode=95.181.178.100:30229
+addnode=95.181.178.172:30229
+addnode=31.131.21.30:30229
 EOF
 }
 
