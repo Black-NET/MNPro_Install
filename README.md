@@ -1,7 +1,7 @@
 # MNPro_Install
 
 
-git clone  https://github.com/mnproio/MNPro_Install.git MNPro_Install
+git clone  https://github.com/Black-NET/MNPro_Install.git MNPro_Install
 
 cd MNPro_Install
 
