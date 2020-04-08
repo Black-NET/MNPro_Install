@@ -159,6 +159,7 @@ masternodeprivkey=$COINKEY
 addnode=95.181.178.100:30229
 addnode=95.181.178.172:30229
 addnode=31.131.21.30:30229
+addnode=31.131.21.30:30229
 EOF
 }
 
