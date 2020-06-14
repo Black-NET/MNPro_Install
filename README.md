@@ -1,5 +1,6 @@
 # MNPro_Install
 
+## Auto installation for Ubuntu MNPro
 
 git clone  https://github.com/Black-NET/MNPro_Install.git MNPro_Install
 
