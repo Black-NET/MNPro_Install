@@ -1,11 +1,19 @@
-MNPRO Synchronized Blockchain. :point_right:  https://mnpro.gq/releases/MNPRO.blockchainimage.14.06.2020.zip 
-MNPRO.conf``
+MNPRO Synchronized Blockchain. :point_right:  https://mnpro.gq/releases/MNPRO.blockchainimage.14.06.2020.zip
+
+MNPRO.conf
+
 #ADDNODES
+
 addnode=95.181.179.88
+
 addnode=95.181.179.59
+
 addnode=95.181.178.199
+
 addnode=95.181.178.3
+
 addnode=95.181.178.172
+
 addnode=83.85.19.34:30229
 addnode=78.141.223.142:30229
 addnode=95.181.179.30:30229
